@@ -1,3 +1,8 @@
+> **Personal research notes -- not a framework, not maintained as a product.**
+> Distilled from public talks and guides (2026). Expect unfinished edges; do not treat this as production guidance.
+
+---
+
 # The Ultimate Agentic Coding Master Guide
 
 ## Claude Code, PAI, QMD & Advanced Workflow Integration
